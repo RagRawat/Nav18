@@ -1,0 +1,22 @@
+{
+  "id": "3c37b509-514f-4604-a416-a511df0ffb79",
+  "name": "Checking GIT",
+  "publisher": "Raghubir",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
